@@ -10,7 +10,7 @@ env:
   # The preferred container registry
   REGISTRY: ghcr.io
   # The base org/image-name for the container
-  IMAGE_NAME: uvarc/iSEE_scRNA_Athero
+  IMAGE_NAME: uvarc/athero
   # A service name if mapping this to a k8s deployment
   SVC_NAME: athero
 
